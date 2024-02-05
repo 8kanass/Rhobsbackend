@@ -1,0 +1,14 @@
+* Explain every column.
+
+(a) : represente l ID de chaque transaction
+(b) : contient des descriptions ou des informations supplémentaires
+(c) et (d) : Prenom et Nom
+(e) : represente le montant d'argent déposé dans une transaction
+(f) : représente le montant d'argent retiré dans une transaction
+(g) : représenter le solde total
+
+* Find the 3 richest person.
+
+Zoé Walliand	893775893
+Gerard Parmentier	892220076
+Océane Urbain	891910460
